@@ -1,0 +1,79 @@
+/*colors and fonts*/
+
+body{
+	background: aliceblue;
+	color: rgb(50,50,50);
+	font-family: Courier;
+	font-size: 16px;
+	text-align: center;
+	
+
+}
+h1{
+	color: #FFC93C;
+	font-family: Courier;
+	font-size: 36px;
+}
+h2{
+	color: #07689F;
+	font-family : Courier;
+	font-size: 24px;
+}
+h3{
+	color: #40A8C4;
+	font-family: Courier;
+	font-size: 30px;
+}
+p{
+	color:#0F3460;
+	font-family: Courier; 
+	font-size: 27 px;
+	text-align: center;
+	font-weight: bold;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+}
+
+ul li{
+	display: inline-block;
+}
+
+.img-circle{
+	border-radius: 50%;
+	width: 300px;
+}
+
+.container{
+	width: 700 px;
+	margin: 40 px auto;
+
+}
+
+.btn-blue{
+	text-align:center;
+	background-color: #a3d2ca;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 4px;
+}
+
+.list-inline li{
+	padding:10px;
+	list-style: none;
+
+}
+
+.card-white{
+	width: 600 px;
+	margin: 20 px auto;
+	background: white;
+	padding: 30 px;
+	border-radius: 4 px;
+	box-shadow: 0 10px 30px #a3d2ca47
+}
+
+
+}
